@@ -1,0 +1,4 @@
+Matematikai teszt
+Geogenak van 5 almája.
+Jamal el lopott 3 almát.
+Milyen szinû Jamal?
